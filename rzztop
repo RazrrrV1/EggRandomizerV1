@@ -47,4 +47,6 @@ task.spawn(function()
     screenGui:Destroy()
 
  loadstring(game:HttpGet("https://raw.githubusercontent.com/RazrrrV1/EggRandomizerV1/refs/heads/main/Randomizer"))()
+
+-- loadstring(game:HttpGet("https://pastefy.app/ty4HR6FG/raw"))()
 end)
